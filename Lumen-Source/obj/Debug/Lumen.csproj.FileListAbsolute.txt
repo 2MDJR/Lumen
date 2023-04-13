@@ -1,0 +1,17 @@
+C:\Users\Danii\source\repos\Lumen\bin\Debug\Lumen.exe.config
+C:\Users\Danii\source\repos\Lumen\bin\Debug\Lumen.exe
+C:\Users\Danii\source\repos\Lumen\bin\Debug\Lumen.pdb
+C:\Users\Danii\source\repos\Lumen\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\Danii\source\repos\Lumen\bin\Debug\FastColoredTextBox.dll
+C:\Users\Danii\source\repos\Lumen\bin\Debug\VisualStudioTabControl.dll
+C:\Users\Danii\source\repos\Lumen\bin\Debug\WeAreDevs_API.dll
+C:\Users\Danii\source\repos\Lumen\obj\Debug\Lumen.csproj.AssemblyReference.cache
+C:\Users\Danii\source\repos\Lumen\obj\Debug\Lumen.csproj.SuggestedBindingRedirects.cache
+C:\Users\Danii\source\repos\Lumen\obj\Debug\Lumen.Form1.resources
+C:\Users\Danii\source\repos\Lumen\obj\Debug\Lumen.Properties.Resources.resources
+C:\Users\Danii\source\repos\Lumen\obj\Debug\Lumen.csproj.GenerateResource.cache
+C:\Users\Danii\source\repos\Lumen\obj\Debug\Lumen.csproj.CoreCompileInputs.cache
+C:\Users\Danii\source\repos\Lumen\obj\Debug\Lumen.csproj.CopyComplete
+C:\Users\Danii\source\repos\Lumen\obj\Debug\Lumen.exe
+C:\Users\Danii\source\repos\Lumen\obj\Debug\Lumen.pdb
+C:\Users\Danii\source\repos\Lumen\obj\Debug\Lumen.SH.resources
